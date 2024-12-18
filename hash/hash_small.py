@@ -1,1 +1,1 @@
-print("This is a new addition")
+print("Solar")
