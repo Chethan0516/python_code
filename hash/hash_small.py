@@ -1,3 +1,1 @@
-
-print("Solar")
-
+print("deleted solar added new")
